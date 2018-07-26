@@ -1,0 +1,135 @@
+body     {
+    
+      background-image: url(sar%C4%B1.jpg)
+        
+}
+
+.baslık 
+ { text-align: center;
+     font-size: 400%;
+    font-family: serif
+     }
+
+.anabaslik
+    {
+        font-size: 200px;
+        font-family: fantasy;
+            text-align: center;
+            }
+
+.rounded-circle
+{
+    width: 100%
+    }
+
+.sticky-social-bar {
+  padding: 0;
+  margin: 0;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+      -ms-transform: translateY(-50%);
+          transform: translateY(-50%);
+  width: 11.25rem;
+  background-color: #333333;
+  position: fixed;
+  left: -8.75rem;
+}
+
+.sticky-social-bar .social-icon {
+  list-style-type: none;
+  color: #fefefe;
+  background-color: inherit;
+  margin: 0;
+  transition: all 0.3s ease-in-out;
+  cursor: pointer;
+  font-size: 1.1rem;
+  padding: 0.25rem 0.25rem 0.5rem;
+}
+
+.sticky-social-bar .social-icon:first-of-type {
+  padding-top: 0.375rem;
+}
+
+.sticky-social-bar .social-icon:last-of-type {
+  padding-bottom: 0.625rem;
+}
+
+.sticky-social-bar .social-icon > a {
+  color: inherit;
+  background-color: inherit;
+}
+
+.sticky-social-bar .social-icon > a > .fa {
+  padding: 0.5rem;
+  width: 2rem;
+  height: 2rem;
+  float: right;
+  margin-left: 0.5rem;
+}
+
+.sticky-social-bar .social-icon > a > .fa.fa-facebook {
+  background-color: #3b5998;
+}
+
+.sticky-social-bar .social-icon > a > .fa.fa-twitter {
+  background-color: #55acee;
+}
+
+.sticky-social-bar .social-icon > a > .fa.fa-linkedin {
+  background-color: #007bb5;
+}
+
+.sticky-social-bar .social-icon > a > .fa.fa-youtube {
+  background-color: #bb0000;
+}
+
+.sticky-social-bar .social-icon > a > .fa.fa-instagram {
+  background-color: #125688;
+}
+
+.sticky-social-bar .social-icon > a > .fa.fa-pinterest-p {
+  background-color: #cb2027;
+}
+
+.sticky-social-bar .social-icon > a > .social-icon-text {
+  font-size: 80%;
+  color: #fefefe;
+  text-transform: uppercase;
+  margin-right: 0.5rem;
+}
+
+.sticky-social-bar .social-icon:hover {
+  -webkit-transform: translateX(8.75rem);
+      -ms-transform: translateX(8.75rem);
+          transform: translateX(8.75rem);
+}
+
+.sticky-social-bar .social-icon:hover > a {
+  color: inherit;
+  background-color: inherit;
+}
+
+
+.metinler {
+    font-size: 125%
+    }
+
+.grupbaslıkları {
+    font-size: 225%
+    }
+
+.about  {
+font-size: 125%
+    }
+
+.asamalar {
+    font-size: 400%;
+    text-align: center;
+    margin: auto
+     }   
+
+featurette-heading{
+    text-align: center;
+    margin: auto;
+    } 
+    
